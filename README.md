@@ -16,8 +16,8 @@ BSides Ljubljana 2019 official badge.
 
 # SVGs
 
-![alt text](svgs\top.svg)
-![alt text](svgs\bottom.svg)
+![alt text](svgs/top.svg)
+![alt text](svgs/bottom.svg)
 
 # Kicad screenshots
 
